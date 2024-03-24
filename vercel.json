@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://play.aowudalu.cn:3000/:match*"
+      "destination": "http://play.aowudalu.cn:3000/:match*"
     }
   ]
 }
